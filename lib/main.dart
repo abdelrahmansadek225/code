@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget{
   @override
   Widget build(BuildContext context){
     return MaterialApp(
-      title: "Grocery App",
+      title: "senior App",
       debugShowCheckedModeBanner: false,
       home: HomePage(), //ProductDetailsPage(), //CategoriesPage(),
     );
